@@ -1,0 +1,60 @@
+
+body {
+  margin: 0;
+  background: #080f20;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+header {
+  background: #101d35;
+  color: #60a5fa;
+  padding: 22px;
+  font-size: 24px;
+}
+
+.hero {
+  padding: 50px 15px;
+}
+
+.profile {
+  background: #2563eb;
+  border: 3px solid #60a5fa;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  display: grid;
+  place-items: center;
+  margin: auto;
+  font-size: 45px;
+  box-shadow: 0 0 25px #00aaff;
+}
+
+h2 {
+  color: #60a5fa;
+}
+
+p {
+  color: #cbd5e1;
+  line-height: 1.7;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  padding: 14px 25px;
+  border: none;
+  border-radius: 8px;
+}
+
+section {
+  background: #101d35;
+  margin: 15px;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+footer {
+  padding: 20px;
+}
